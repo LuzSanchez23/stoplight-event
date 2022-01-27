@@ -1,6 +1,8 @@
 # stoplight-event
 
-# Link: 
+# Link: https://luzsanchez23.github.io/stoplight-event/
+
+# Assignment Instructions:
 Part 1
 Add DOM event listeners and handlers to toggle the on/off state of three bulbs.
 
